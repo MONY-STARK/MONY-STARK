@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @MONY-STARK
-- 👀 I’m interested in Software and AI Development
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @MONY-STARK aka MONISH PRASAD
+- 👀 I DO AI DEVELOPMENT
 
 <!---
 MONY-STARK/MONY-STARK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

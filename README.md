@@ -6,8 +6,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MONY-STARK&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/MONY-STARK?style=flat&logo=github&label=Followers)
+# ![Profile Views](https://komarev.com/ghpvc/?username=MONY-STARK&label=Profile%20Views&color=0e75b6&style=flat)##
+# ![Followers](https://img.shields.io/github/followers/MONY-STARK?style=flat&logo=github&label=Followers)
 
 </div>
 

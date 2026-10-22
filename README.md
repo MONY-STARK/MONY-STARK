@@ -87,8 +87,7 @@ Built a real-time monitoring system using **Deep Learning and Computer Vision** 
 
 ## 🎯 Currently
 
-- 🔭 Pushing local voice assistants toward lower latency
-- 📚 Going deeper into LLM post-training and alignment (DPO, reward modeling)
+- 🔭 Pushing Myself to build something great!!
 - 🌱 Sharpening system design and clean OOP/SOLID code
 
 ---
@@ -111,7 +110,7 @@ Built a real-time monitoring system using **Deep Learning and Computer Vision** 
 <div align="center">
 
 <!-- Replace the links below with your own -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/monish-prasad-5724212b3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
 *I'm open to opportunities where ML/DL can make a real difference.*

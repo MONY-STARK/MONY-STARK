@@ -5,7 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Developer+who+dreams+of+building+AGI;Building+real-time+AI+systems+end+to+end;Computer+Vision+%7C+NLP+%7C+Generative+AI;Turning+ideas+into+working+ML+solutions" alt="Typing SVG" />
 
 <br/>
-![Followers](https://img.shields.io/github/followers/MONY-STARK?style=flat&logo=github&label=Followers)
+
+<img src="https://img.shields.io/github/followers/MONY-STARK?style=flat&logo=github&label=Followers" alt="Followers" />
+
 </div>
 
 ---
